@@ -23,7 +23,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SEU_LINK/)](https://www.linkedin.com/in/marcos-mouraec/)
 [![Email Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU_EMAIL)](mailto:marcos.mouraec@gmail.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?kaaz0d=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apikaaz0danuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br><br><br><br><br><br><br>
   <br>
