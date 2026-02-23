@@ -24,11 +24,10 @@
 [![Email Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU_EMAIL)](mailto:marcos.mouraec@gmail.com)
 
 <div align="center">
-  <br>
-  <br>
   <a href="https://github.com/kaaz0d">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=kaaz0d&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaaz0d&layout=compact&langs_count=7&theme=github_dark"/>
+    <img height="130" src="https://github-readme-stats.vercel.app/api?username=kaaz0d&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+    <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaaz0d&layout=compact&langs_count=7&theme=github_dark"/>
+  </a>
 </div>
 
 <br><br><br><br><br><br><br><br>
